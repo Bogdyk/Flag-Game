@@ -1,0 +1,14 @@
+{
+	"authors": [
+		"Bogdyk"
+	],
+	"copyright": "Copyright © 2026, Bogdyk",
+	"dependencies": {
+		"dlangui": "~>0.10.8"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "flagd",
+    "buildRequirements": ["allowWarnings"],
+    "dflags": ["-wi"]
+}
